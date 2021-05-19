@@ -5,7 +5,7 @@
 #' @return
 #'
 #' @examples
-seconds_to_timer <- function(seconds) {
+seconds_to_timer <- function(cs) {
   minutes <- floor(cs / 60) %>%
     stringr::str_pad(2, pad = '0')
   seconds <- floor((cs %% 60)) %>%
