@@ -19,6 +19,7 @@ seconds_to_timer <- function(cs) {
 #' @return
 #'
 #' @examples
+#' @export
 timer <- function () {
   .id <<- .id + 1
   message('\r', seconds_to_timer(.id), appendLF = FALSE)
