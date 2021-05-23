@@ -1,5 +1,5 @@
 Package: stopwatch
-Title: What the Package Does (One Line, Title Case)
+Title: A Package Making Long Running Code Nicer to Deal With
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "First",
