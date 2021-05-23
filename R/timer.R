@@ -1,6 +1,6 @@
 #' Format centi-seconds for timer
 #'
-#' @param seconds
+#' @param cs
 #'
 #' @return
 #'

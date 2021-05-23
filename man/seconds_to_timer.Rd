@@ -4,10 +4,10 @@
 \alias{seconds_to_timer}
 \title{Format centi-seconds for timer}
 \usage{
-seconds_to_timer(seconds)
+seconds_to_timer(cs)
 }
 \arguments{
-\item{seconds}{}
+\item{cs}{}
 }
 \value{
 
