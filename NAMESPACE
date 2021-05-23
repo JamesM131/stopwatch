@@ -3,4 +3,5 @@
 export("%>%")
 export(start_timer)
 export(stop_timer)
+export(timer)
 importFrom(magrittr,"%>%")
